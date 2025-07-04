@@ -1,0 +1,24 @@
+**.DS_Store
+
+.Rhistory
+.RData
+.Ruserdata
+
+.Rproj.user/
+
+
+/packrat/
+.renv/# macOS system files
+.DS_Store
+
+.Rhistory
+.RData
+.Ruserdata
+
+.Rproj.user/
+
+/output/
+/plots/
+
+/packrat/
+.renv/
